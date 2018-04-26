@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+
+.heading {
+	font-size: 48px;
+	color: #8EA13B;
+	font-family: "Arial Black", Gadget, sans-serif;
+	text-align: left;
+}
+.Subheading {
+	font-size: 36px;
+	color: #AE3D2B;
+	font-family: "Arial Black", Gadget, sans-serif;
+}
+.paragraph {
+	color: #DF8330;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 16px;
+}
+.numbers {
+	font-family: Verdana, Geneva, sans-serif;
+}
+.links {
+	color: #8EA13B;
+}
